@@ -2,6 +2,8 @@
 Jenkins docker image with essential DevOps tools
 ### Tools included
 - terraform
+- packer
+- awscli
 - docker-cli
 - docker-compose
 - python3
